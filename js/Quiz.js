@@ -34,7 +34,7 @@ question.hide()
     //write code to change the background color here
 background("yellow")
     //write code to show a heading for showing the result of Quiz
-textsize(30)
+textSize(30)
 text("Result of quiz",300,50)
     //call getContestantInfo( ) here
 Contestent.getPlayerInfo()
